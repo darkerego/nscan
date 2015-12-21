@@ -238,7 +238,6 @@ case $1 in
   rscan)
 	if [ $# -eq 5 ]
 	then
-	add$2
 	end=$3
 	CN=$(echo $addr | cut -d . -f 4)
 
