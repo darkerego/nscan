@@ -4,7 +4,7 @@
 
 a simple netcat wrapper
 
-** Nscan Tweaks: **
+**Nscan Tweaks:**
 
 * Tweaked for embedded devices
 * Added functionality to scan a range of ips (function 'rscan')
